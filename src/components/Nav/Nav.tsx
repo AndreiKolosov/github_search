@@ -9,7 +9,7 @@ export const Nav = () => {
         <Link to={`/`} className="mr-4">
           Home
         </Link>
-        <Link to={`/fovorites`}>Favorites</Link>
+        <Link to={`/favorites`}>Favorites</Link>
       </div>
     </nav>
   );

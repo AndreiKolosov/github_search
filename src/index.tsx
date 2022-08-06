@@ -10,7 +10,7 @@ import { store } from './store';
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <Provider store={store}>
-    <BrowserRouter basename="\">
+    <BrowserRouter basename="/github_search">
       <App />
     </BrowserRouter>
   </Provider>

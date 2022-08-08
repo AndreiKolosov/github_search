@@ -1,6 +1,5 @@
 # <a id="top" />GitHub Search
 
-![Картинка](./src/images/logo.png)
 
 ---
 

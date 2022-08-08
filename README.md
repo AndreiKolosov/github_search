@@ -54,7 +54,8 @@
 
 Андрей Колосов
 
-- [Telegram ](https://t.me/RustyVoid)
+- [Telegram](https://t.me/RustyVoid)
 - [Instagram](https://www.instagram.com/akolosof/)
 
 [Наверх](#top)
+

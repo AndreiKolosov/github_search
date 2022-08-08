@@ -1,4 +1,4 @@
-# <a id="top" />Stellar Burger
+# <a id="top" />GitHub Search
 
 ![Картинка](./src/images/logo.png)
 
